@@ -1,11 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 I am Liu Siyuan, an M.S. student in the College of Computer Science and Artificial Intelligence at Fudan University, advised by Prof. Yixin Cao. My research focuses on Natural Language Processing and Agent Memory. I received my B.S. in Computer Science from the School of Computer Science at Fudan University in June 2025.
 
 Publications
