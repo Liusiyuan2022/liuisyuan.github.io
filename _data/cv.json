@@ -1,149 +1,152 @@
 {
   "basics": {
-    "name": "刘思远",
-    "label": "复旦大学计算机科学与技术专业本科生",
-    "email": "21307130181@m.fudan.edu.cn",
-    "phone": "+86-13355441525",
-    "website": "https://liuisyuan.github.io",
-    "summary": "复旦大学计算机科学与技术学院荣誉路径在读本科生，关注乱序CPU架构设计、人工智能推理优化与软硬件协同系统开发。",
+    "name": "Your Sidebar Name",
+    "email": "none@example.org",
+    "phone": "",
+    "website": "https://academicpages.github.io",
+    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "上海",
-      "countryCode": "CN",
-      "region": "上海市"
+      "city": "Earth",
+      "countryCode": "US",
+      "region": ""
     },
     "profiles": [
       {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+      },
+      {
+        "network": "ORCID",
+        "username": "",
+        "url": "https://orcid.org/yourorcidurl"
+      },
+      {
         "network": "GitHub",
-        "username": "liuisyuan",
-        "url": "https://github.com/liuisyuan"
+        "username": "academicpages",
+        "url": "https://github.com/academicpages"
       }
     ]
   },
-  "work": [
-    {
-      "company": "复旦大学计算机科学技术学院分团委学术科创部",
-      "position": "部员",
-      "startDate": "2021-09",
-      "endDate": "2023-03",
-      "summary": "组织学院科研与创新活动，连接本科生与实验室导师。",
-      "highlights": [
-        "协助筹备“走进实验室”活动，协调研究生导师分享科研方向与项目机会",
-        "组织学长经验分享会，负责现场摄影与公众号推送撰写"
-      ]
-    }
-  ],
+  "work": [],
   "education": [
     {
-      "institution": "复旦大学",
-      "area": "计算机科学与技术（荣誉路径）",
-      "studyType": "工学学士（在读）",
-      "startDate": "2021-09",
-      "endDate": "2025-06",
-      "gpa": "3.49/4.00",
+      "institution": "GitHub University",
+      "area": "Ph.D in Version Control Theory",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2018",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "GitHub University",
+      "area": "M.S. in Jekyll",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2014",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "GitHub University",
+      "area": "B.S. in GitHub",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2012",
+      "gpa": null,
       "courses": []
     }
   ],
-  "awards": [
-    {
-      "title": "全国计算机系统能力培养大赛“龙芯杯”一等奖",
-      "date": "2024",
-      "awarder": "全国计算机系统能力培养大赛组委会",
-      "summary": "以乱序多发射CPU作品“iFu Processor”获得全国总决赛一等奖（赛道第二名）。"
-    }
-  ],
-  "projects": [
-    {
-      "name": "iFu Processor 乱序多发射CPU设计",
-      "startDate": "2023-06",
-      "endDate": "2024-08",
-      "summary": "基于Chisel与SystemVerilog实现支持龙芯LA32r指令集的乱序多发射CPU，在FPGA上完成系统级验证并运行Linux。",
-      "highlights": [
-        "负责访存子系统设计，实现赛事中首个乱序多访存单元，将IPC性能推到新记录",
-        "适配la32r Linux操作系统，完成外设驱动及系统软件移植，可运行2048小游戏与qjs程序"
-      ]
-    },
-    {
-      "name": "自然语言处理课程项目",
-      "startDate": "2023-09",
-      "endDate": "2024-01",
-      "summary": "利用PyTorch训练文本情感分析模型，并对预训练语言模型进行下游任务微调。",
-      "highlights": [
-        "调研BERT等预训练模型并完成下一句预测任务适配",
-        "构建训练与验证流程，完成多批次调参与效果评估"
-      ]
-    },
-    {
-      "name": "长三角计算机视觉处理大赛（模型榜第五名）",
-      "startDate": "2023-07",
-      "endDate": "2024-12",
-      "summary": "围绕YOLOv8进行模型调优，并结合TensorRT加速实现课程第一、比赛网站第五的综合成绩。",
-      "highlights": [
-        "针对比赛数据集进行数据增强与超参数调优，提升检测精度",
-        "应用TensorRT对推理流程进行加速，整体训练效率提升约一倍"
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "硬件设计",
-      "keywords": ["Chisel", "SystemVerilog", "FPGA", "LA32r 架构"]
-    },
-    {
-      "name": "机器学习",
-      "keywords": ["PyTorch", "BERT 微调", "YOLOv8", "TensorRT"]
-    },
-    {
-      "name": "软件与工具",
-      "keywords": ["Linux", "Git", "QuickJS", "Python"]
-    }
-  ],
-  "languages": [
-    {
-      "language": "中文",
-      "fluency": "母语"
-    },
-    {
-      "language": "英语",
-      "fluency": "CET-6 533/710"
-    }
-  ],
-  "interests": [
-    {
-      "name": "体系结构与系统",
-      "keywords": ["乱序CPU", "软硬件协同"]
-    },
-    {
-      "name": "人工智能",
-      "keywords": ["自然语言处理", "计算机视觉"]
-    }
-  ],
+  "skills": [],
+  "languages": [],
+  "interests": [],
   "references": [],
-  "publications": [],
-  "presentations": [],
-  "teaching": [],
+  "publications": [
+    {
+      "name": "Paper Title Number 1",
+      "publisher": "Journal 1",
+      "releaseDate": "2009-10-01",
+      "website": "https://academicpages.github.io/files/paper1.pdf",
+      "summary": "This paper is about the number 1. The number 2 is left for future work."
+    },
+    {
+      "name": "Paper Title Number 2",
+      "publisher": "Journal 1",
+      "releaseDate": "2010-10-01",
+      "website": "https://academicpages.github.io/files/paper2.pdf",
+      "summary": "This paper is about the number 2. The number 3 is left for future work."
+    },
+    {
+      "name": "Paper Title Number 3",
+      "publisher": "Journal 1",
+      "releaseDate": "2015-10-01",
+      "website": "https://academicpages.github.io/files/paper3.pdf",
+      "summary": "This paper is about the number 3. The number 4 is left for future work."
+    },
+    {
+      "name": "Paper Title Number 4",
+      "publisher": "GitHub Journal of Bugs",
+      "releaseDate": "2024-02-17",
+      "website": "https://academicpages.github.io/files/paper3.pdf",
+      "summary": "This paper is about fixing template issue #693."
+    }
+  ],
+  "presentations": [
+    {
+      "name": "Talk 1 on Relevant Topic in Your Field",
+      "event": "UC San Francisco, Department of Testing",
+      "date": "2012-03-01",
+      "location": "San Francisco, CA, USA",
+      "description": ""
+    },
+    {
+      "name": "Tutorial 1 on Relevant Topic in Your Field",
+      "event": "UC-Berkeley Institute for Testing Science",
+      "date": "2013-03-01",
+      "location": "Berkeley, CA, USA",
+      "description": ""
+    },
+    {
+      "name": "Talk 2 on Relevant Topic in Your Field",
+      "event": "London School of Testing",
+      "date": "2014-02-01",
+      "location": "London, UK",
+      "description": ""
+    },
+    {
+      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
+      "event": "Testing Institute of America 2014 Annual Conference",
+      "date": "2014-03-01",
+      "location": "Los Angeles, CA, USA",
+      "description": ""
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Teaching experience 1",
+      "institution": "University 1, Department",
+      "date": "2014-01-01",
+      "role": "Undergraduate course",
+      "description": ""
+    },
+    {
+      "course": "Teaching experience 2",
+      "institution": "University 1, Department",
+      "date": "2015-01-01",
+      "role": "Workshop",
+      "description": ""
+    }
+  ],
   "portfolio": [
     {
-      "name": "iFu Processor CPU 设计",
-      "category": "CPU 设计",
-      "date": "2024",
+      "name": "Portfolio item number 1",
+      "category": "portfolio",
+      "date": "",
       "url": "",
-      "description": "基于Chisel与SystemVerilog实现的乱序多发射CPU，在龙芯杯中获全国一等奖。"
-    },
-    {
-      "name": "NLP 情感分析课程项目",
-      "category": "自然语言处理",
-      "date": "2024",
-      "url": "",
-      "description": "面向情感分类任务，对BERT等模型进行微调并搭建训练评估流程。"
-    },
-    {
-      "name": "长三角计算机视觉处理大赛",
-      "category": "计算机视觉",
-      "date": "2024",
-      "url": "",
-      "description": "基于YOLOv8调优与TensorRT加速，在模型榜获得第五名。"
+      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
     }
   ]
 }
