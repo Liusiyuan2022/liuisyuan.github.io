@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "self-image.jpg"
+  avatar           : "self-image.png"
   name             : "Liu Siyuan"
   pronouns         : # example: "she/her"  
   bio              : "M.S. student in FDU, focused on NLP"
