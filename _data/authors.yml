@@ -1,18 +1,9 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Siyuan Liu:
+  name        : "刘思远"
+  uri         : "https://liuisyuan.github.io"
+  email       : "21307130181@m.fudan.edu.cn"
+  bio         : "复旦大学计算机科学与技术专业本科生，专注于CPU架构设计与人工智能系统优化。"
+  avatar      : "profile.png"
+  github      : "liuisyuan"
