@@ -16,6 +16,6 @@ Comming soon💪💪💪！！
 Honors & Awards
 ======
 - 2024 Frist Prize at 8th National Student Computer System Capability Challenge("loongson Cup")🏆🏆🏆
-- 2025 Top Talent Award in Computer Scienceof Fudan University🎖️🎖️🎖️
+- 2025 Top Talent Award in Department of Computer Science, Fudan University🎖️🎖️🎖️
 
 
