@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "iFu Processor"
+external_url: "https://github.com/iFuProcessor" 
+excerpt: "Out-of-order superscalar processor; First Prize, 8th Loongson Cup (Team) <br/><img src='/images/iFuCore.png' alt='iFu Processor Architecture'/>"
 collection: portfolio
 ---
 
